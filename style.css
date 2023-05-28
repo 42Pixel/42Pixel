@@ -11,7 +11,7 @@ body
     display: flex;
     justify-content: center;
     min-height: 100px;
-    background-color: #fff;
+    background-color: #111;
 }
 h2
 {
