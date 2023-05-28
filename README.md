@@ -1,3 +1,5 @@
+<html>
+<head>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Mali:ital@1&display=swap');
 *
@@ -59,28 +61,20 @@ h2 span
     }
 }
 </style>
-
-<!doctype html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport"
-        content="width=device-width,initial-scale=1.0">
-        <title>Hello World</title>
-        <link rel="stylesheet" href="style.css">
-    </head>
-    <body>
-        <h2>
-            <span style="--i:1;">H</span>
-            <span style="--i:2;">e</span>
-            <span style="--i:3;">l</span>
-            <span style="--i:4;">l</span>
-            <span style="--i:5;">o</span>
-            <span style="--i:6;margin-left:5vw">W</span>
-            <span style="--i:7;">o</span>
-            <span style="--i:8;">r</span>
-            <span style="--i:9;">l</span>
-            <span style="--i:10;">d</span>
-            <span style="--i:11;margin-left:5vw">!</span>
-    </body>
+</head>
+<body>
+<h2>
+    <span style="--i:1;">H</span>
+    <span style="--i:2;">e</span>
+    <span style="--i:3;">l</span>
+    <span style="--i:4;">l</span>
+    <span style="--i:5;">o</span>
+    <span style="--i:6;margin-left:5vw">W</span>
+    <span style="--i:7;">o</span>
+    <span style="--i:8;">r</span>
+    <span style="--i:9;">l</span>
+    <span style="--i:10;">d</span>
+    <span style="--i:11;margin-left:5vw">!</span>
+</h2>
+</body>
 </html>
