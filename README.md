@@ -3,9 +3,9 @@
 
 ## <font face="微软雅黑 Light"> About Me
 
-<font face="微软雅黑 Light">:mortar_board:**occupation** : undergraduates（EIE）
-<font face="微软雅黑 Light">:hearts:**Hobby** : :bicyclist: 🏸:headphones:
-<font face="微软雅黑 Light">:link:**Blog** : [FlyAway.ink](https://www.flyaway.ink)
+<font face="微软雅黑 Light">:mortar_board:**occupation** : undergraduates（EIE）<br>
+<font face="微软雅黑 Light">:hearts:**Hobby** : :bicyclist: 🏸:headphones:<br>
+<font face="微软雅黑 Light">:link:**Blog** : [FlyAway.ink](https://www.flyaway.ink)<br>
 
 
 ## Tools and Environments
@@ -14,7 +14,7 @@
 
 
 ## Git Hub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=42Pixel&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=42Pixel&show_icons=true&theme=vue)    
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42Pixels\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42Pixels\&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
