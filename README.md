@@ -13,8 +13,6 @@
 
 ## Git Hub Stats
 
- <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42Pixels\&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-![Metrics](https://metrics.lecoq.io/42Pixel?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai#pic_center)
+![Metrics](https://metrics.lecoq.io/42Pixel?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai#)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=42Pixel&show_icons=true&theme=vue)
