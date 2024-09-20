@@ -1,4 +1,4 @@
-# <font face="微软雅黑"> :wave: Hello！ !</font>
+# <font face="微软雅黑"> :wave: Hello！</font>
 
 
 ## <font face="微软雅黑 Light"> About Me
